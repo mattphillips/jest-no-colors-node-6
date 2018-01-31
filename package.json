@@ -1,4 +1,7 @@
 {
+  "version": "0",
+  "name": "jest-no-colors-node-6",
+  "license": "MIT",
   "scripts": {
     "test": "jest"
   },
